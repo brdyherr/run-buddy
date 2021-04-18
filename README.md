@@ -87,22 +87,9 @@ See this link
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Website
 https://brdyherr.github.io/run-buddy/
-
+[Purpose](#Purpose)
 ## Contribution
 Made with ❤️ by Braudy Herrera
 
