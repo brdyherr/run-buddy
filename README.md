@@ -2,10 +2,38 @@
 
 ## Purpose
 A website that offers fitness training services.
+See this link
+[Website Link] #Website
 
 ## Built with 
 * HTML
 * CSS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Website
 https://brdyherr.github.io/run-buddy/
